@@ -1,31 +1,31 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Andrew 👋
 
 ## Software Engineer in View | Data Analyst in View
 
-I'm a [your educational background] passionate about [specific area of tech]. Currently focused on developing my skills in [key technologies] through hands-on projects and continuous learning.
+I'm a [Business Administration Graduate from Northeastern ] passionate about [Automation]. Currently focused on developing my skills in [Python and Cybersecurity] through hands-on projects and continuous learning.
 
 ### 🛠️ Technical Skills
-- Languages: [list programming languages]
-- Frameworks/Libraries: [list relevant frameworks]
-- Tools & Platforms: [list relevant tools]
-- Databases: [list database technologies]
+- Languages: [Python, SQL, Java]
+- Frameworks/Libraries: [Numpy, Pandas]
+- Tools & Platforms: [Docker, Ubuntu, VScode]
+- Databases: [Zammad Help Desk]
 
 ### 🔭 Current Projects
 - [Project Name](link): Brief description of the project and technologies used
 - [Project Name](link): Brief description of the project and technologies used
 
 ### 🌱 I'm currently learning
-- [Technology/Skill]
-- [Technology/Skill]
-
+- [Python]
+- [Basic Computer Languages]
+  
 ### 📊 GitHub Stats
 ![Your GitHub Stats](<https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical>)
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: [www.linkedin.com/in/andrewervin]
+- Email: [drewervin30@gmail.com]
 
 ### 💼 Looking for opportunities in
 - Software Engineering
 - Data Analysis
-- [Other relevant areas]
+- Stock Analysis
