@@ -19,7 +19,7 @@ I'm a Business Administration Graduate from Northeastern  passionate about Autom
 - Basic Computer Languages
   
 ### 📊 GitHub Stats
-![Your GitHub Stats](<https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical>)
+![Your GitHub Stats](<https://github-readme-stats.vercel.app/api?username=drewervin&show_icons=true&theme=radical>)
 
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/andrewervin
